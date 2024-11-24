@@ -48,22 +48,7 @@ const MentalHealthSection = () => {
                         You can also take a look at our conditions pages for further information about the symptoms you may be experiencing.
                     </p>
 
-                    {/* Buttons or links to further information */}
-                    <div className="flex justify-center space-x-8 mt-8">
-                        <a
-                            href="#conditions"
-                            className="bg-white text-black text-xl font-semibold py-4 px-12 rounded-full shadow-md hover:bg-black hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-cyan-600"
-                        >
-                            Conditions 
-                            We Can Help with...
-                        </a>
-                        <a
-                            href="#treatments"
-                            className="bg-white text-black text-xl font-semibold py-4 px-12 rounded-full shadow-md hover:bg-black hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-cyan-600"
-                        >
-                            Treatments That We Offer...
-                        </a>
-                    </div>
+
 
 
                 </motion.div>
